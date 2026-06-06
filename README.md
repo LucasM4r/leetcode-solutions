@@ -8,4 +8,4 @@ This repository contains my solutions to various LeetCode problems. My primary g
 | :--- | :------------------------------------------------ | :--------------- | :--------- | :--- | :--- | :----- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | 🟢 Easy     | ✅    | ❌    | ❌      |
 
-*(Legenda: ✅ Resolvido | 🏗️ Em andamento | ❌ Não iniciado)*
+*(Legend: ✅ Completed | 🏗️ In Progress | ❌ Not started)*
