@@ -8,5 +8,6 @@ This repository contains my solutions to various LeetCode problems. My primary g
 | :--- | :---------------------------------------------------------------------- | :--------------- | :--------- | :--- | :--- | :----- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | Arrays & Hashing | 🟢 Easy     | ✅    | ❌    | ❌      |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees            | 🟢 Easy     | ✅    | ❌    | ❌      |
+| 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/)         | Concurrency      | 🟢 Easy     | ✅    | ❌    | ❌      |
 
 *(Legend: ✅ Completed | 🏗️ In Progress | ❌ Not started)*
