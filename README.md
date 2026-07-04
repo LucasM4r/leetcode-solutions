@@ -32,5 +32,6 @@ This repository contains my solutions to various LeetCode problems. My primary g
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/)                                                             | Concurrency      | 🟢 Easy     | ✅    | ❌    | ❌      | -                                                                                  |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)                                         | Concurrency      | 🟡 Medium   | ✅    | ❌    | ❌      | -                                                                                  |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Greedy           | 🟢 Easy     | ✅    | ❌    | ❌      | -                                                                                  |
+| 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)                           | Graphs           | 🟡 Medium   | ✅    | ❌    | ❌      | Dijkstra / 0-1 BFS                                                                 |
 
 *(Legend: ✅ Completed | 🏗️ In Progress | ❌ Not started)*
