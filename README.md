@@ -41,5 +41,6 @@ This repository contains my solutions to various LeetCode problems. My primary g
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)                               | Graphs              | 🟡 Medium   | ✅    | ❌    | ❌      | Connected components grouping                                                      |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/)   | Math                | 🟢 Easy     | ✅    | ❌    | ❌      | -                                                                                  |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Math                | 🟡 Medium   | ✅    | ❌    | ❌      | Prefix Sum & Binary Search                                                         |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)                                                 | Math                | 🟡 Medium   | ✅    | ❌    | ❌      | -                                                                                  |
 
 *(Legend: ✅ Completed | 🏗️ In Progress | ❌ Not started)*
